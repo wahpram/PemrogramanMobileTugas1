@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center">
+
+    <TextView
+        android:id="@+id/text3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/textView4" />
+
+    <EditText
+        android:id="@+id/textEdit3"
+        android:hint="@string/edittext2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="15dp"
+        android:paddingHorizontal="15dp"
+        android:layout_gravity="center_horizontal"
+        android:width="50dp"
+        android:height="50dp"
+        android:textColor="#fff"
+        android:background="@drawable/rounded"/>
+
+    <TextView
+        android:layout_marginTop="15dp"
+        android:id="@+id/text4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/textView5" />
+
+    <EditText
+        android:id="@+id/textEdit4"
+        android:hint="@string/edittext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="15dp"
+        android:paddingHorizontal="15dp"
+        android:layout_gravity="center_horizontal"
+        android:width="50dp"
+        android:height="50dp"
+        android:textColor="#fff"
+        android:background="@drawable/rounded"/>
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/buttonText3"
+        android:background="@drawable/rounded_btn"/>
+
+</LinearLayout>

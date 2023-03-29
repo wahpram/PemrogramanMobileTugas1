@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NewApplication</string>
+    <string name="header"><font size="35">MyPIGGy</font></string>
+    <string name="textView1">Hello!</string>
+    <string name="buttonText">Get Started</string>
+    <string name="buttonText2">Login</string>
+    <string name="buttonText3">Register</string>
+    <string name="register">REGISTER</string>
+    <string name="textView2">Select</string>
+    <string name="nama">%1$s</string>
+    <string name="username">Welcome, %1$s</string>
+    <string name="textView4">Username</string>
+    <string name="textView5">Email</string>
+    <string name="edittext"><font size="12">Masukkan email anda</font></string>
+    <string name="edittext2"><font size="12">Masukkan username anda</font></string>
+</resources>
